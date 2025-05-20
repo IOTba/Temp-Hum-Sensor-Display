@@ -30,4 +30,4 @@ U8g2
 | VCC       | 3.3V or 5V (check your module specs) |
 | GND       | GND                                  |
 
-[View Arduino code](temphumsensor.ino)
+[View code](temphumsensor.ino)
