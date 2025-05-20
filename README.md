@@ -15,17 +15,13 @@ Clean and readable interface using the U8g2 library
 
 Hardware Requirements
 ESP32 Dev Board
-
 AHT10 or AHT25 sensor
-
 SH1106 128x64 OLED display (I2C version)
-
 Jumper wires
 
 Libraries Used
 Adafruit_Sensor
-
 Adafruit_AHTX0
-
 U8g2
+![sketch](https://github.com/user-attachments/assets/22e579d5-b7a6-4deb-9e6b-6b35c6695a7a)
 
