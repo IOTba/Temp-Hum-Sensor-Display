@@ -12,8 +12,11 @@ Clean and readable interface using the U8g2 library
 
 Hardware Requirements
 ESP32 Dev Board
+
 AHT10 or AHT25 sensor
+
 SH1106 128x64 OLED display (I2C version)
+
 Jumper wires
 
 Libraries Used
