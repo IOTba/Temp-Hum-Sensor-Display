@@ -23,3 +23,9 @@ U8g2
 
 ![sketch](https://github.com/user-attachments/assets/22e579d5-b7a6-4deb-9e6b-6b35c6695a7a)
 
+| Component | ESP32 Pin                            |
+| --------- | ------------------------------------ |
+| SDA       | GPIO 21                              |
+| SCL       | GPIO 22                              |
+| VCC       | 3.3V or 5V (check your module specs) |
+| GND       | GND                                  |
