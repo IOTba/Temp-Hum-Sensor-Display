@@ -1,4 +1,4 @@
-Temperature and humidity display
+# H1 - Temperature and humidity display  
 This project demonstrates how to read temperature and humidity data using an AHT10 or AHT25 sensor and display the values on a 128x64 SH1106 OLED screen, using an ESP32 microcontroller.
 
 The sensor and the display are both connected via the I2C protocol, allowing for a simple and efficient setup. The temperature (in Celsius) and humidity (in percentage) are updated every 2 seconds and displayed clearly on the screen using the U8g2 graphics library.
