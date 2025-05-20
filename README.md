@@ -29,3 +29,5 @@ U8g2
 | SCL       | GPIO 22                              |
 | VCC       | 3.3V or 5V (check your module specs) |
 | GND       | GND                                  |
+
+[View Arduino code](code/temphumsensor.ino)
